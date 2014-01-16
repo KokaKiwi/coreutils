@@ -42,6 +42,7 @@ TEST_PROGS  := \
   dirname \
   echo \
   pwd \
+  users \
 
 TEST        ?= $(TEST_PROGS)
 
