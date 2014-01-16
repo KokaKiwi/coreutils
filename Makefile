@@ -37,6 +37,7 @@ EXES        := \
 # Programs with usable tests
 TEST_PROGS  := \
   base64 \
+  basename \
   cat \
 
 TEST        ?= $(TEST_PROGS)
