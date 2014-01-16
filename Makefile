@@ -40,6 +40,7 @@ TEST_PROGS  := \
   basename \
   cat \
   dirname \
+  echo \
 
 TEST        ?= $(TEST_PROGS)
 
