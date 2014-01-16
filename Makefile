@@ -41,6 +41,7 @@ TEST_PROGS  := \
   cat \
   dirname \
   echo \
+  pwd \
 
 TEST        ?= $(TEST_PROGS)
 
