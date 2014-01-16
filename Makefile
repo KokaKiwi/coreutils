@@ -39,6 +39,7 @@ TEST_PROGS  := \
   base64 \
   basename \
   cat \
+  dirname \
 
 TEST        ?= $(TEST_PROGS)
 
